@@ -24,7 +24,7 @@ function johnLennonFacts(facts){
   let increment = 0
   while(increment < facts.length){
   increment++
-  newArray.push("!!!")
+  newArray.push(facts + "!!!")
 }
   return newArray
 }
