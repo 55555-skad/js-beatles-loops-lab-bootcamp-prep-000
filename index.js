@@ -18,3 +18,10 @@ function theBeatlesPlay(musicians, instruments){
   
   return newArray
 }
+
+johnLennonFacts(facts){
+  let newArray = []
+  
+  
+  return newArray
+}
