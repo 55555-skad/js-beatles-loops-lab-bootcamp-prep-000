@@ -31,12 +31,12 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(number){
   var newArray = []
-  var num = 0
+  var number = 0
   do {
     newArray.push("I love the Beatles!")
     num++
   }
-  while(num < 15)
+  while(number < 15)
   }
   
  return newArray 
