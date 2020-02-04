@@ -10,3 +10,9 @@
 //   return variable
 // }
 
+function theBeatlesPlay(musicians, instruments){
+  let newArray = []
+  for(var i)
+  
+  return newArray[]
+}
