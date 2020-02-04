@@ -28,3 +28,16 @@ function johnLennonFacts(facts){
 }
   return newArray
 }
+
+function iLoveTheBeatles(number){
+  var newArray = []
+  var num = 0
+  do {
+    newArray.push("I love the Beatles!")
+    num++
+  }
+  while(num < 15)
+  }
+  
+ return newArray 
+}
