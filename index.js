@@ -37,7 +37,7 @@ function iLoveTheBeatles(number){
     num++
   }
   while(number < 15)
-  }
+  
   
  return newArray 
 }
