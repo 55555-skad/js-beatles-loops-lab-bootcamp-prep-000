@@ -21,7 +21,7 @@ function theBeatlesPlay(musicians, instruments){
 
 johnLennonFacts(facts){
   let newArray = []
-  
+  while(0 < )
   
   return newArray
 }
