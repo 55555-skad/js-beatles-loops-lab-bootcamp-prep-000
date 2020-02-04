@@ -19,7 +19,7 @@ function theBeatlesPlay(musicians, instruments){
   return newArray
 }
 
-johnLennonFacts(facts){
+function johnLennonFacts(facts){
   let newArray = []
   increment = 0
   while(increment < facts.length){
