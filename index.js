@@ -29,14 +29,14 @@ function johnLennonFacts(facts){
   return newArray
 }
 
-function iLoveTheBeatles(num)
+function iLoveTheBeatles(number){
   var newArray = []
-
+  var number = 0
   do {
     newArray.push("I love the Beatles!")
-    num++
+    number++
   }
-  while(num < 15){}
+  while(number < 15)
   
   
  return newArray 
