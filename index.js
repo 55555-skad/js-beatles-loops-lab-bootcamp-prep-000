@@ -21,7 +21,7 @@ function theBeatlesPlay(musicians, instruments){
 
 function johnLennonFacts(facts){
   let newArray = []
-  increment = 0
+  let increment = 0
   while(increment < facts.length){
   increment++
   newArray.push(facts[i] + "!!!")
