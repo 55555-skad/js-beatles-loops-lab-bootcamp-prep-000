@@ -12,7 +12,9 @@
 
 function theBeatlesPlay(musicians, instruments){
   let newArray = []
-  for(var i)
+  for(var i = 0; i < musicians.length; i++){
+    
+  }
   
   return newArray[]
 }
